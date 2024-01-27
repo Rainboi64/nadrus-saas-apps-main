@@ -1,0 +1,43 @@
+{
+  "message": "Listed successfully",
+  "data": [
+    {
+      "id": 1,
+      "class_id": 1,
+      "content": "First page of the lesson",
+      "deadline_date": "2023-10-06",
+      "created_at": "2023-06-08T15:00:00.000000Z",
+      "updated_at": "2023-06-08T15:00:00.000000Z",
+      "class": {
+        "id": 1,
+        "teacher_id": 1,
+        "lesson_id": 1,
+        "weekly_schedule_id": 1450,
+        "completion_rate": "0.50",
+        "date": "2023-06-01",
+        "lesson": {
+          "id": 1,
+          "name": "متتاليات",
+          "description": "شرح الدرس",
+          "order": 1,
+          "unit_id": 1,
+          "unit": {
+            "id": 1,
+            "nth_unit": 1,
+            "title": "الوحدة الأولى",
+            "subject_id": 1,
+            "subject": {
+              "id": 1,
+              "name": "رياضيات ــ تحليل",
+              "icon_name": "MATH_1",
+              "png_icon": "http://localhost:8000/storage/icons/png/MATH_1.png",
+              "svg_icon": "http://localhost:8000/storage/icons/png/MATH_1.svg",
+              "grade_id": 1,
+              "teacher_id": 1
+            }
+          }
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,452 @@
+{
+  "SUNDAY": [
+    {
+      "id": 1,
+      "nth_class": 1,
+      "section_id": 1,
+      "subject_id": null,
+      "from_time": "07:45:00",
+      "to_time": "08:30:00",
+      "is_brake": 0,
+      "day": "SUNDAY",
+      "subject": null
+    },
+    {
+      "id": 49,
+      "nth_class": 2,
+      "section_id": 1,
+      "subject_id": null,
+      "from_time": "08:30:00",
+      "to_time": "09:15:00",
+      "is_brake": 0,
+      "day": "SUNDAY",
+      "subject": null
+    },
+    {
+      "id": 97,
+      "nth_class": 3,
+      "section_id": 1,
+      "subject_id": null,
+      "from_time": "09:15:00",
+      "to_time": "10:00:00",
+      "is_brake": 0,
+      "day": "SUNDAY",
+      "subject": null
+    },
+    {
+      "id": 145,
+      "nth_class": 4,
+      "section_id": 1,
+      "subject_id": null,
+      "from_time": "10:00:00",
+      "to_time": "10:30:00",
+      "is_brake": 1,
+      "day": "SUNDAY",
+      "subject": null
+    },
+    {
+      "id": 193,
+      "nth_class": 5,
+      "section_id": 1,
+      "subject_id": null,
+      "from_time": "10:30:00",
+      "to_time": "11:15:00",
+      "is_brake": 0,
+      "day": "SUNDAY",
+      "subject": null
+    },
+    {
+      "id": 241,
+      "nth_class": 6,
+      "section_id": 1,
+      "subject_id": null,
+      "from_time": "11:15:00",
+      "to_time": "12:00:00",
+      "is_brake": 0,
+      "day": "SUNDAY",
+      "subject": null
+    },
+    {
+      "id": 289,
+      "nth_class": 7,
+      "section_id": 1,
+      "subject_id": null,
+      "from_time": "12:00:00",
+      "to_time": "12:45:00",
+      "is_brake": 0,
+      "day": "SUNDAY",
+      "subject": null
+    },
+    {
+      "id": 1681,
+      "nth_class": 8,
+      "section_id": 1,
+      "subject_id": null,
+      "from_time": "12:45:00",
+      "to_time": "13:30:00",
+      "is_brake": 0,
+      "day": "SUNDAY",
+      "subject": null
+    }
+  ],
+  "MONDAY": [
+    {
+      "id": 337,
+      "nth_class": 1,
+      "section_id": 1,
+      "subject_id": null,
+      "from_time": "07:45:00",
+      "to_time": "08:30:00",
+      "is_brake": 0,
+      "day": "MONDAY",
+      "subject": null
+    },
+    {
+      "id": 385,
+      "nth_class": 2,
+      "section_id": 1,
+      "subject_id": null,
+      "from_time": "08:30:00",
+      "to_time": "09:15:00",
+      "is_brake": 0,
+      "day": "MONDAY",
+      "subject": null
+    },
+    {
+      "id": 433,
+      "nth_class": 3,
+      "section_id": 1,
+      "subject_id": null,
+      "from_time": "09:15:00",
+      "to_time": "10:00:00",
+      "is_brake": 0,
+      "day": "MONDAY",
+      "subject": null
+    },
+    {
+      "id": 481,
+      "nth_class": 4,
+      "section_id": 1,
+      "subject_id": null,
+      "from_time": "10:00:00",
+      "to_time": "10:30:00",
+      "is_brake": 1,
+      "day": "MONDAY",
+      "subject": null
+    },
+    {
+      "id": 529,
+      "nth_class": 5,
+      "section_id": 1,
+      "subject_id": null,
+      "from_time": "10:30:00",
+      "to_time": "11:15:00",
+      "is_brake": 0,
+      "day": "MONDAY",
+      "subject": null
+    },
+    {
+      "id": 577,
+      "nth_class": 6,
+      "section_id": 1,
+      "subject_id": null,
+      "from_time": "11:15:00",
+      "to_time": "12:00:00",
+      "is_brake": 0,
+      "day": "MONDAY",
+      "subject": null
+    },
+    {
+      "id": 625,
+      "nth_class": 7,
+      "section_id": 1,
+      "subject_id": null,
+      "from_time": "12:00:00",
+      "to_time": "12:45:00",
+      "is_brake": 0,
+      "day": "MONDAY",
+      "subject": null
+    },
+    {
+      "id": 1729,
+      "nth_class": 8,
+      "section_id": 1,
+      "subject_id": null,
+      "from_time": "12:45:00",
+      "to_time": "13:30:00",
+      "is_brake": 0,
+      "day": "MONDAY",
+      "subject": null
+    }
+  ],
+  "TUESDAY": [
+    {
+      "id": 673,
+      "nth_class": 1,
+      "section_id": 1,
+      "subject_id": null,
+      "from_time": "07:45:00",
+      "to_time": "08:30:00",
+      "is_brake": 0,
+      "day": "TUESDAY",
+      "subject": null
+    },
+    {
+      "id": 721,
+      "nth_class": 2,
+      "section_id": 1,
+      "subject_id": null,
+      "from_time": "08:30:00",
+      "to_time": "09:15:00",
+      "is_brake": 0,
+      "day": "TUESDAY",
+      "subject": null
+    },
+    {
+      "id": 769,
+      "nth_class": 3,
+      "section_id": 1,
+      "subject_id": null,
+      "from_time": "09:15:00",
+      "to_time": "10:00:00",
+      "is_brake": 0,
+      "day": "TUESDAY",
+      "subject": null
+    },
+    {
+      "id": 817,
+      "nth_class": 4,
+      "section_id": 1,
+      "subject_id": null,
+      "from_time": "10:00:00",
+      "to_time": "10:30:00",
+      "is_brake": 1,
+      "day": "TUESDAY",
+      "subject": null
+    },
+    {
+      "id": 865,
+      "nth_class": 5,
+      "section_id": 1,
+      "subject_id": null,
+      "from_time": "10:30:00",
+      "to_time": "11:15:00",
+      "is_brake": 0,
+      "day": "TUESDAY",
+      "subject": null
+    },
+    {
+      "id": 913,
+      "nth_class": 6,
+      "section_id": 1,
+      "subject_id": null,
+      "from_time": "11:15:00",
+      "to_time": "12:00:00",
+      "is_brake": 0,
+      "day": "TUESDAY",
+      "subject": null
+    },
+    {
+      "id": 961,
+      "nth_class": 7,
+      "section_id": 1,
+      "subject_id": null,
+      "from_time": "12:00:00",
+      "to_time": "12:45:00",
+      "is_brake": 0,
+      "day": "TUESDAY",
+      "subject": null
+    },
+    {
+      "id": 1777,
+      "nth_class": 8,
+      "section_id": 1,
+      "subject_id": null,
+      "from_time": "12:45:00",
+      "to_time": "13:30:00",
+      "is_brake": 0,
+      "day": "TUESDAY",
+      "subject": null
+    }
+  ],
+  "WEDNESDAY": [
+    {
+      "id": 1009,
+      "nth_class": 1,
+      "section_id": 1,
+      "subject_id": null,
+      "from_time": "07:45:00",
+      "to_time": "08:30:00",
+      "is_brake": 0,
+      "day": "WEDNESDAY",
+      "subject": null
+    },
+    {
+      "id": 1057,
+      "nth_class": 2,
+      "section_id": 1,
+      "subject_id": null,
+      "from_time": "08:30:00",
+      "to_time": "09:15:00",
+      "is_brake": 0,
+      "day": "WEDNESDAY",
+      "subject": null
+    },
+    {
+      "id": 1105,
+      "nth_class": 3,
+      "section_id": 1,
+      "subject_id": null,
+      "from_time": "09:15:00",
+      "to_time": "10:00:00",
+      "is_brake": 0,
+      "day": "WEDNESDAY",
+      "subject": null
+    },
+    {
+      "id": 1153,
+      "nth_class": 4,
+      "section_id": 1,
+      "subject_id": null,
+      "from_time": "10:00:00",
+      "to_time": "10:30:00",
+      "is_brake": 1,
+      "day": "WEDNESDAY",
+      "subject": null
+    },
+    {
+      "id": 1201,
+      "nth_class": 5,
+      "section_id": 1,
+      "subject_id": null,
+      "from_time": "10:30:00",
+      "to_time": "11:15:00",
+      "is_brake": 0,
+      "day": "WEDNESDAY",
+      "subject": null
+    },
+    {
+      "id": 1249,
+      "nth_class": 6,
+      "section_id": 1,
+      "subject_id": null,
+      "from_time": "11:15:00",
+      "to_time": "12:00:00",
+      "is_brake": 0,
+      "day": "WEDNESDAY",
+      "subject": null
+    },
+    {
+      "id": 1297,
+      "nth_class": 7,
+      "section_id": 1,
+      "subject_id": null,
+      "from_time": "12:00:00",
+      "to_time": "12:45:00",
+      "is_brake": 0,
+      "day": "WEDNESDAY",
+      "subject": null
+    },
+    {
+      "id": 1825,
+      "nth_class": 8,
+      "section_id": 1,
+      "subject_id": null,
+      "from_time": "12:45:00",
+      "to_time": "13:30:00",
+      "is_brake": 0,
+      "day": "WEDNESDAY",
+      "subject": null
+    }
+  ],
+  "THURSDAY": [
+    {
+      "id": 1345,
+      "nth_class": 1,
+      "section_id": 1,
+      "subject_id": null,
+      "from_time": "07:45:00",
+      "to_time": "08:30:00",
+      "is_brake": 0,
+      "day": "THURSDAY",
+      "subject": null
+    },
+    {
+      "id": 1393,
+      "nth_class": 2,
+      "section_id": 1,
+      "subject_id": null,
+      "from_time": "08:30:00",
+      "to_time": "09:15:00",
+      "is_brake": 0,
+      "day": "THURSDAY",
+      "subject": null
+    },
+    {
+      "id": 1441,
+      "nth_class": 3,
+      "section_id": 1,
+      "subject_id": null,
+      "from_time": "09:15:00",
+      "to_time": "10:00:00",
+      "is_brake": 0,
+      "day": "THURSDAY",
+      "subject": null
+    },
+    {
+      "id": 1489,
+      "nth_class": 4,
+      "section_id": 1,
+      "subject_id": null,
+      "from_time": "10:00:00",
+      "to_time": "10:30:00",
+      "is_brake": 1,
+      "day": "THURSDAY",
+      "subject": null
+    },
+    {
+      "id": 1537,
+      "nth_class": 5,
+      "section_id": 1,
+      "subject_id": null,
+      "from_time": "10:30:00",
+      "to_time": "11:15:00",
+      "is_brake": 0,
+      "day": "THURSDAY",
+      "subject": null
+    },
+    {
+      "id": 1585,
+      "nth_class": 6,
+      "section_id": 1,
+      "subject_id": null,
+      "from_time": "11:15:00",
+      "to_time": "12:00:00",
+      "is_brake": 0,
+      "day": "THURSDAY",
+      "subject": null
+    },
+    {
+      "id": 1633,
+      "nth_class": 7,
+      "section_id": 1,
+      "subject_id": null,
+      "from_time": "12:00:00",
+      "to_time": "12:45:00",
+      "is_brake": 0,
+      "day": "THURSDAY",
+      "subject": null
+    },
+    {
+      "id": 1873,
+      "nth_class": 8,
+      "section_id": 1,
+      "subject_id": null,
+      "from_time": "12:45:00",
+      "to_time": "13:30:00",
+      "is_brake": 0,
+      "day": "THURSDAY",
+      "subject": null
+    }
+  ]
+}
